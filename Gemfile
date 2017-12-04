@@ -43,7 +43,7 @@ gem 'geocoder'
 
 gem 'stamp'
 
-
+gem 'figaro'
 
 
 group :development, :test do
